@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using ScrabbleHelper.SPA;
 using System;
 
 namespace ScrabbleHelper.Test
