@@ -6,7 +6,7 @@ export class Home extends Component {
 
   constructor(props) {
     super(props);
-    this.state = { value: '', wordsToDrawHTML: [] };
+    this.state = { value: '', wordsToDrawHTML: [] , mainContainerClass: "mainContainer"};
 
     this.handleChange = this.handleChange.bind(this);
     this.getWords = this.getWords.bind(this);
@@ -40,7 +40,7 @@ export class Home extends Component {
     partialHTML += "</div>";
   }
   partialHTML += "</div>";
-  this.setState({ wordsToDrawHTML: partialHTML });
+  this.setState({ mainContainerClass: "mainContainerUp", wordsToDrawHTML: partialHTML });
   }
 
   handleChange(event) {
@@ -49,7 +49,7 @@ export class Home extends Component {
 
   render() {
     return (
-      <div className="mainContainer">
+      <div className={this.state.mainContainerClass}>
         <div className="rackContainer">
           <div className="rack">
             <div className="tile" data-letter="s">
@@ -98,7 +98,7 @@ export class Home extends Component {
           </form>
         </div>
         
-        <div>
+        <div className="resultContainer">
           { ReactHtmlParser(this.state.wordsToDrawHTML)}
           
         </div>

@@ -9,6 +9,32 @@
     width: 10em;
 }
 
+.mainContainer {	
+	margin-top:33%;
+  }
+
+  .mainContainerUp{
+  animation-name: upLogo;
+	animation-duration: 0.5s;
+	animation-delay: 0s;
+	margin-top: 3%;
+	animation-timing-function: linear;
+}
+  
+  @keyframes upLogo {
+	0%   {margin-top:33%;}
+	10%   {margin-top:30%;}
+	20%  {margin-top:27%;}
+	30%  {margin-top:24%;}
+	40%  {margin-top:20%;}
+	50%  {margin-top:17%;}
+	60%  {margin-top:14%;}
+	70%  {margin-top:11%;}
+	80%  {margin-top:9%;}
+	90%  {margin-top:6%;}
+	100%  {margin-top:3%;}
+  }
+
 .labelLetters{
     font-family: Oswald, sans-serif;
 	font-size: 1em;
@@ -31,12 +57,7 @@
 
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 html {
-	padding: 5vh 5vw;
 	background-color: #e6c998;
-	background-attachment: fixed;
-	background-image: radial-gradient(center, #7c6f59, transparent);
-	position: fixed;
-	content: "";
 	top: 0;
 	bottom: 0;
 	right: 0;
@@ -47,13 +68,6 @@ html {
 
 body {
     background-color: transparent;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-direction: column;
-	height: 90vh;
-	width: 90vw;
-	box-sizing: border-box;
 }
 
 .rack {
@@ -156,27 +170,29 @@ body {
 }
 
 .all {
-	margin-top: 12.5mm;
-	display: flex;
+	margin-top: em;
 	justify-content: space-around;
 	flex-wrap: wrap;
 	width: 100%;
 	height: auto;
-    overflow-y: auto;
 }
 
 .all div{
-    display: inline-flex;
-    margin-right: 1em;
+    display: inline-flex;    
     width: 100%;
+}
+
+.all div div{
+margin-right: 1em;
+margin-bottom: 0.1em;
 }
 
 .all .tile {
 	background-color: #f5cf90;
 	background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/49914/veneer-birch-texture-fs8.png');
 	position: relative;
-	width: 9.5mm;
-	height: 9.5mm;
+	width: 2em;
+	height: 2em;
 	box-sizing: border-box;
 	box-shadow: 0 0.5625mm 0.375mm -0.25mm rgba(0, 0, 0, 0.4);
 	border-style: solid;
