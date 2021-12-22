@@ -9,8 +9,12 @@
     width: 10em;
 }
 
+.word {
+	
+}
+
 .mainContainer {	
-	margin-top:33%;
+	margin-top: 33%;
   }
 
   .mainContainerUp{
@@ -170,15 +174,16 @@ body {
 }
 
 .all {
-	margin-top: em;
+	margin-top: 2em;
 	justify-content: space-around;
 	flex-wrap: wrap;
 	width: 100%;
 	height: auto;
+	text-align: center;
 }
 
 .all div{
-    display: inline-flex;    
+    display: inline-block;    
     width: 100%;
 }
 

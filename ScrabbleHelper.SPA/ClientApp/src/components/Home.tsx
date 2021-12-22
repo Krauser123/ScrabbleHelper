@@ -1,18 +1,28 @@
 import React, { Component } from 'react';
 import ReactHtmlParser from 'react-html-parser';
 
-export class Home extends Component {
+interface HomeProps {
+
+}
+
+interface HomeState {
+  value: string;
+  wordsToDrawHTML: string;
+  mainContainerClass: string;
+}
+
+export class Home extends Component<HomeProps, HomeState> {
   static displayName = Home.name;
 
-  constructor(props) {
+  constructor(props: HomeProps) {
     super(props);
-    this.state = { value: '', wordsToDrawHTML: [] , mainContainerClass: "mainContainer"};
+    this.state = { value: "", wordsToDrawHTML: "", mainContainerClass: "mainContainer" };
 
     this.handleChange = this.handleChange.bind(this);
     this.getWords = this.getWords.bind(this);
   }
 
-  async getWords(event) {
+  async getWords(event: any) {
     const response = await fetch('ScrabbleHelperWords?letters=' + this.state.value, {
       headers: {
         'Content-Type': 'application/json',
@@ -22,7 +32,7 @@ export class Home extends Component {
 
     const data = await response.json();
 
-    this.drawItems(data);    
+    this.drawItems(data);
   }
 
   drawItems(response) {
@@ -31,16 +41,16 @@ export class Home extends Component {
     for (let key in response) {
 
       let value = response[key];
-      var splitted = value.split(""); 
-      partialHTML += "<div>";
+      var splitted = value.split("");
+      partialHTML += "<div class='word' score='" + key + "'>";      
       for (let key in splitted) {
         let letter = splitted[key];
         partialHTML += "<div class='tile' data-letter='" + letter + "'></div>";
+      }
+      partialHTML += "</div>";
     }
     partialHTML += "</div>";
-  }
-  partialHTML += "</div>";
-  this.setState({ mainContainerClass: "mainContainerUp", wordsToDrawHTML: partialHTML });
+    this.setState({ mainContainerClass: "mainContainerUp", wordsToDrawHTML: partialHTML });
   }
 
   handleChange(event) {
@@ -97,10 +107,10 @@ export class Home extends Component {
             <input className="btn-primary" type="button" onClick={this.getWords} value="Submit" />
           </form>
         </div>
-        
+
         <div className="resultContainer">
-          { ReactHtmlParser(this.state.wordsToDrawHTML)}
-          
+          {ReactHtmlParser(this.state.wordsToDrawHTML)}
+
         </div>
 
       </div>

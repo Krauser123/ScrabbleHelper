@@ -26,7 +26,7 @@ namespace ScrabbleHelper.SPA
         {
             //Build regular expression
             string regExp = string.Empty;
-            foreach (var item in availableLetters)
+            foreach (var item in availableLetters.Replace(" ", "").ToLower())
             {
                 regExp += $"(?=.*{item})";
             }
