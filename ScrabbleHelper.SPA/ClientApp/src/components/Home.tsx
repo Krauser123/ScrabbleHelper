@@ -23,16 +23,18 @@ export class Home extends Component<HomeProps, HomeState> {
   }
 
   async getWords(event: any) {
-    const response = await fetch('ScrabbleHelperWords?letters=' + this.state.value, {
-      headers: {
-        'Content-Type': 'application/json',
-        'Accept': 'application/json'
-      }
-    });
+    if (this.state.value !== "") {
+      const response = await fetch('ScrabbleHelperWords?letters=' + this.state.value, {
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+        }
+      });
 
-    const data = await response.json();
+      const data = await response.json();
 
-    this.drawItems(data);
+      this.drawItems(data);
+    }
   }
 
   drawItems(response) {
@@ -42,7 +44,7 @@ export class Home extends Component<HomeProps, HomeState> {
 
       let value = response[key];
       var splitted = value.split("");
-      partialHTML += "<div class='word' score='" + key + "'>";      
+      partialHTML += "<div class='word' score='" + key + "'>";
       for (let key in splitted) {
         let letter = splitted[key];
         partialHTML += "<div class='tile' data-letter='" + letter + "'></div>";
@@ -78,9 +80,8 @@ export class Home extends Component<HomeProps, HomeState> {
             </div>
             <div className="tile" data-letter="e">
             </div>
-
-            <div className="tile">
-            </div>
+          </div>
+          <div className="rack">
 
             <div className="tile" data-letter="h">
             </div>
