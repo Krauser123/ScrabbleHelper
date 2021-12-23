@@ -1,12 +1,3 @@
-//builder.Services.AddSwaggerGen();
-
-
-/*app.UseSwagger();
-app.UseSwaggerUI(c =>
-{
-    c.SwaggerEndpoint("/swagger/v1/swagger.json", "ScrabbleHelper API V1");
-});*/
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
