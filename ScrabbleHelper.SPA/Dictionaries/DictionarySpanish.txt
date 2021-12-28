@@ -353,7 +353,6 @@ Alvarado
 Alvarez
 Alvear
 Alvira
-Amacayacú
 Amacueca
 Amacuro
 Amacuzac
@@ -2237,7 +2236,7 @@ Cañaduzal
 Cañahuate
 Cañaris
 Cañas
-Cañasgordas
+Cañaordas
 Cañaveral
 Cañaveralejo
 Cañaverales
@@ -6782,7 +6781,7 @@ Muro
 Murrapal
 Murrí
 Musanda
-Musga
+Mua
 Musichi
 Musinga
 Musulmán
@@ -6939,16 +6938,12 @@ Neira
 Neiva
 Nejapa
 Nejapilla
-Nejápam
-Nelson
 Neltume
 Nemesio
 Nemocón
 Nemotá
 Nendo
 Nepal
-Nepeña
-Nepomuceno
 Nerete
 Neri
 Nerja
@@ -6960,10 +6955,7 @@ Neuquén
 Nevado
 Nevados
 Nevis
-Nextlalpan
-Nezahualcóyotl
 Niata
-Nicananduta
 Nicanor
 Nicaragua
 Nicasio
@@ -6980,7 +6972,6 @@ Nieva
 Nieves
 Nigeria
 Nilo
-Niltepec
 Nimaima
 Ninabamba
 Ninacaca
@@ -7000,9 +6991,6 @@ Nobsa
 Nocaima
 Noche
 Nochevieja
-Nochistlán
-Nochixtlán
-Nocupétaro
 Noel
 Noelia
 Nogal
@@ -7013,7 +7001,6 @@ Noguera
 Nohora
 Nombre
 Nonoava
-Nonoc
 Nonogasta
 Nontuela
 Nopala
@@ -7870,17 +7857,6 @@ Petrólea
 Peumo
 Peye
 Peña
-Peñablanca
-Peñaflor
-Peñafrancia
-Peñalisa
-Peñalito
-Peñalolén
-Peñalosa
-Peñalver
-Peñamiller
-Peñaranda
-Peñarrubia
 Peñas
 Peñasco
 Peñata
@@ -7891,7 +7867,6 @@ Peñoles
 Peñoncito
 Peñuelas
 Peñón
-Phara
 Pi
 Piagua
 Pialapí
@@ -8553,7 +8528,7 @@ Ranrahirca
 Ransang
 Rapayan
 Raquel
-Rasgón
+Raón
 Raspadura
 Raspeig
 Rastra
@@ -11661,7 +11636,7 @@ abstemio
 abstencionismo
 abstencionista
 abstención
-abstenerñóöú
+abstener
 abstergente
 absterger
 abstinencia
@@ -11669,7 +11644,7 @@ abstinente
 abstracción
 abstractamente
 abstracto
-abstraerñ
+abstraer
 abstraído
 abstruso
 absuelto
@@ -12165,7 +12140,7 @@ acoderar
 acodiciar
 acodillado
 acodillar
-acogerô
+acoger
 acogido
 acogimiento
 acogollar
@@ -12209,7 +12184,7 @@ acompañado
 acompañado
 acompañamiento
 acompañante
-acompañarñò
+acompañar
 acomplejar
 acomunalar
 acomunar
@@ -12288,7 +12263,7 @@ acordada
 acordado
 acordanza
 acordar
-acordarÅÆñòõù
+acordar
 acorde
 acorde
 acordelar
@@ -12570,7 +12545,7 @@ adeudo
 adherecer
 adherencia
 adherente
-adherirñ
+adherir
 adhesividad
 adhesivo
 adhesivo
@@ -12605,7 +12580,7 @@ adive
 adivinador
 adivinamiento
 adivinanza
-adivinarÌÙñòA
+adivinar
 adiós
 adiós
 adjetival
@@ -12671,7 +12646,7 @@ adorarTA
 adoratorio
 adoratriz
 adormecedor
-adormecerÄñ
+adormecer
 adormecimiento
 adormidera
 adormilar
@@ -12763,7 +12738,7 @@ advertida
 advertidamente
 advertido
 advertimiento
-advertirÃÉÊËT
+advertir
 adviértase
 advocación
 advocar
@@ -12941,7 +12916,7 @@ aforrar
 afortalar
 afortunada
 afortunadamente
-afortunadoSG
+afortunado
 aforística
 aforístico
 afosar
@@ -13049,7 +13024,7 @@ agitadamente
 agitado
 agitador
 agitanar
-agitarÌòT
+agitar
 aglomeramiento
 aglomerante
 aglomerar
@@ -13093,7 +13068,7 @@ agraciar
 agradable
 agradablemente
 agradar
-agradecerÃÄÅÆÇÑÒÓß
+agradecer
 agradecida
 agradecido
 agradecimiento
@@ -13316,7 +13291,7 @@ ahogadero
 ahogadizo
 ahogado
 ahogado
-ahogadoSG
+ahogado
 ahogador
 ahogador
 ahogamiento
@@ -13390,8 +13365,7 @@ aislador
 aislador
 aislamiento
 aislante
-aislarÅñòõ
-aj
+aislar
 ajada
 ajamiento
 ajamonar
@@ -13849,7 +13823,7 @@ aleja
 alejado
 alejamiento
 alejandrino
-alejarÌñòôø
+alejar
 alelado
 alelamiento
 alelar
@@ -13867,7 +13841,7 @@ alentadamente
 alentado
 alentador
 alentadoramente
-alentarÅÆñò
+alentar
 alentoso
 aleonar
 alerce
@@ -14140,7 +14114,7 @@ alisma
 aliso
 alistador
 alistamiento
-alistarô
+alistar
 aliteración
 alitierno
 alitán
@@ -14289,7 +14263,7 @@ almora
 almorejo
 almorrana
 almorta
-almorzarÃ
+almorzar
 almorávide
 almosnar
 almotacenazgo
@@ -14620,7 +14594,7 @@ amarcar
 amarecer
 amargado
 amargamente
-amargarô
+amargar
 amargo
 amargo
 amargor
@@ -14646,7 +14620,7 @@ amarraco
 amarradero
 amarrado
 amarradura
-amarrarô
+amarrar
 amarre
 amarreco
 amarrequear
@@ -14843,7 +14817,7 @@ amonedar
 amonestación
 amonestador
 amonestamiento
-amonestarô
+amonestar
 amoniacal
 amoniaco
 amonio
@@ -14913,7 +14887,7 @@ amperímetro
 amplexo
 ampliador
 ampliamente
-ampliarÆTA
+ampliarTA
 ampliativo
 ampliatorio
 amplificador
@@ -14948,7 +14922,7 @@ amurar
 amurcar
 amurillar
 amurriñar
-amusgar
+amuar
 amuso
 amustiar
 amuñuñar
@@ -15346,7 +15320,7 @@ anillado
 anillar
 animada
 animadamente
-animadoSGk
+animadok
 animador
 animadversión
 animal
@@ -15423,7 +15397,7 @@ anseriforme
 ansermeño
 ansermita
 ansia
-ansiarÅò
+ansiar
 ansiedad
 ansiogénico
 ansiolítico
@@ -15645,7 +15619,7 @@ anublar
 anudador
 anudadura
 anudamiento
-anudarñ
+anudar
 anuencia
 anuente
 anulador
@@ -15758,7 +15732,7 @@ aparcero
 aparcería
 apareamiento
 aparear
-aparecerñò
+aparecer
 aparecimiento
 aparejado
 aparejador
@@ -15768,7 +15742,7 @@ aparentador
 aparentar
 aparente
 aparentemente
-apariciónpS
+aparición
 apariencia
 aparir
 aparragar
@@ -15796,7 +15770,7 @@ aparvar
 apasionada
 apasionadamente
 apasionado
-apasionadoSG
+apasionado
 apasionamiento
 apasionante
 apasionar
@@ -15819,7 +15793,7 @@ apeador
 apeador
 apealar
 apeamiento
-apearô
+apear
 apechar
 apechugar
 apedazar
@@ -15879,12 +15853,12 @@ aperturismo
 aperturista
 apesadumbrar
 apesarar
-apesgar
+apear
 apestar
 apestillar
 apestoso
 apetecedor
-apetecerñT
+apetecer
 apetencia
 apetitivo
 apetito
@@ -15954,7 +15928,7 @@ aplegar
 aplicabilidad
 aplicable
 aplicadak
-aplicadokSG
+aplicadok
 aplicar
 aplicativo
 aplique
@@ -16027,8 +16001,7 @@ aposentar
 aposento
 apostadero
 apostante
-apostarÅÆñòñò
-apostarñòñò
+apostar
 apostasía
 apostatar
 apostemar
@@ -16069,7 +16042,7 @@ aprensión
 apresador
 apresamiento
 apresar
-aprestarø
+aprestar
 aprestigiar
 apresuradamente
 apresuramiento
@@ -16100,7 +16073,7 @@ apriscar
 aprisionar
 aproar
 aprobado
-aprobarIRDÄA
+aprobarIRDA
 aproches
 aprodar
 aprometer
@@ -16553,7 +16526,7 @@ arraclán
 arraezar
 arraigada
 arraigado
-arraigadoSG
+arraigado
 arraigar
 arraigo
 arralar
@@ -16585,7 +16558,7 @@ arrastradizo
 arrastrado
 arrastramiento
 arrastrante
-arrastrarÌÙñòô
+arrastrar
 arrastre
 arrastrero
 arrate
@@ -16705,7 +16678,7 @@ arrepanchigar
 arrepasar
 arrepentida
 arrepentimiento
-arrepentirñóöú
+arrepentir
 arrepistar
 arrequesonar
 arrequintar
@@ -16729,8 +16702,8 @@ arribo
 arridar
 arriendo
 arriero
-arriesgado
-arriesgarô
+arrieado
+arriear
 arrimadero
 arrimadillo
 arrimadizo
@@ -17002,7 +16975,7 @@ asenso
 asentaderas
 asentado
 asentador
-asentarñõ
+asentarõ
 asentir
 asentista
 aseo
@@ -17028,7 +17001,7 @@ asesinato
 asesino
 asesor
 asesoramiento
-asesorarø
+asesorar
 asesoría
 asestadero
 asestadura
@@ -17070,7 +17043,6 @@ asincronía
 asintomático
 asintótico
 asir
-asirÅÆñò
 asirio
 asistenciakS
 asistencial
@@ -17300,7 +17272,7 @@ atanos
 ataos
 atapar
 ataquizar
-atarÇñò
+atar
 atarantar
 ataraxia
 atarazar
@@ -17362,7 +17334,7 @@ atendible
 atenebrar
 ateneo
 ateneo
-atenerñóöú
+atener
 ateniense
 atenorado
 atentak
@@ -17425,7 +17397,7 @@ aterrador
 aterradoramente
 aterrajar
 aterrar
-aterrarññ
+aterrarñ
 aterrerar
 aterrizaje
 aterrizar
@@ -17443,8 +17415,8 @@ atesoramiento
 atesorar
 atestación
 atestamiento
-atestarÄ
-atestarÄÄ
+atestar
+atestar
 atestiguación
 atestiguamiento
 atestiguar
@@ -17557,7 +17529,7 @@ atractivo
 atractivo
 atractriz
 atracón
-atraerÃÉñó
+atraerÉñó
 atrafagar
 atragantar
 atraicionar
@@ -17572,7 +17544,7 @@ atrasar
 atraso
 atravesado
 atravesador
-atravesarÄÆñò
+atravesar
 atrayente
 atregar
 atreguar
@@ -17584,7 +17556,7 @@ atrevido
 atrevimiento
 atrezo
 atribución
-atribuirÃËÊñóT
+atribuir
 atribular
 atributar
 atributivo
@@ -17876,7 +17848,7 @@ avenate
 avenenar
 avenencia
 avenimiento
-avenirñT
+aveni
 aventado
 aventador
 aventador
@@ -17886,7 +17858,7 @@ aventajado
 aventajamiento
 aventajar
 aventamiento
-aventarÃÆñ
+aventar
 aventura
 aventurado
 aventurar
@@ -17923,7 +17895,6 @@ aviador
 aviador
 aviador
 aviamiento
-aviarõ
 aviar
 aviario
 avica
@@ -17951,7 +17922,7 @@ avioneta
 avisacoches
 avisado
 avisador
-avisarÍÎÚÛ
+avisar
 aviso
 avispa
 avispado
@@ -18167,7 +18138,7 @@ añoranza
 añorar
 añublar
 añudar
-añusgar
+añuar
 aúlico
 aún
 aúpa
@@ -19100,7 +19071,7 @@ ben
 benceno
 bencina
 bendecidor
-bendecirÃÉÊËÕ
+bendecir
 bendición
 benditamente
 benditera
@@ -19799,7 +19770,7 @@ boquinatural
 boquinegro
 boquinegro
 boquino
-boquirrasgado
+boquirraado
 boquirroto
 boquirrubio
 boquirrubio
@@ -20386,7 +20357,7 @@ burla
 burladero
 burlador
 burlador
-burlarô
+burlar
 burlesco
 burlete
 burlonamente
@@ -20549,7 +20520,7 @@ cabellar
 cabellera
 cabello
 cabelludo
-caberÕÖ
+caber
 cabero
 cabestrante
 cabestrar
@@ -20752,7 +20723,7 @@ cadáver
 cadí
 caedizo
 caedura
-caerÅÆñòõù
+caer
 cafetal
 cafetalero
 cafetear
@@ -20772,7 +20743,7 @@ cagalar
 cagalera
 cagaluta
 cagaprisas
-cagarô
+cagar
 cagarrache
 cagarria
 cagarropa
@@ -20958,7 +20929,7 @@ calentado
 calentador
 calentador
 calentamiento
-calentarÃÄÅÆñòù
+calentar
 calentito
 calentito
 calentura
@@ -21055,7 +21026,7 @@ calloso
 calma
 calmadamente
 calmante
-calmarÍñòôø
+calmar
 calmazo
 calmoso
 calmudo
@@ -21411,10 +21382,10 @@ canoro
 canoso
 cansada
 cansadamente
-cansadoSG
+cansado
 cansador
 cansancio
-cansarÌñò
+cansar
 cansera
 cansinamente
 cansino
@@ -22270,7 +22241,7 @@ catalineta
 catalizador
 catalizar
 catalogador
-catalogarREDÄÆA
+catalogarREDA
 catalufa
 catalán
 catalán
@@ -22491,7 +22462,7 @@ cañamazo
 cañamón
 cañar
 cañar
-cañasgordense
+cañaordense
 cañavera
 cañaveral
 cañaverear
@@ -22580,7 +22551,7 @@ cefálico
 cegado
 cegador
 cegajear
-cegarÄÆñ
+cegar
 cegato
 ceguedad
 ceguera
@@ -22820,7 +22791,7 @@ cerceta
 cerchar
 cerchear
 cercillo
-cerciorarø
+cerciorar
 cerco
 cercopiteco
 cercos
@@ -22902,7 +22873,7 @@ cerrajería
 cerrajón
 cerramiento
 cerrano
-cerrarÃÄÅÆÐÑÒñòõù
+cerrar
 cerrazón
 cerrebojar
 cerrero
@@ -22992,7 +22963,7 @@ ceñar
 ceñida
 ceñido
 ceñidor
-ceñirÊñóú
+ceñir
 ceño
 ceñudo
 cf
@@ -23419,7 +23390,7 @@ chis
 chiscano
 chiscar
 chiscarra
-chisguete
+chiuete
 chisme
 chismear
 chismorrear
@@ -23957,7 +23928,7 @@ citación
 citadino
 citador
 citano
-citarñò
+citar
 citara
 citarilla
 citarista
@@ -24229,7 +24200,7 @@ cocedero
 cocedizo
 cocedor
 cocedura
-cocerÄÆÐÝn
+cocern
 cocha
 cochambre
 cochambroso
@@ -24424,8 +24395,8 @@ colanilla
 colapez
 colapiscis
 colapsar
-colarÅÅÝA
-colarÅÝñòñò
+colarA
+colar
 colaudar
 colcha
 colchadura
@@ -24485,7 +24456,7 @@ colgadura
 colgajo
 colgamiento
 colgante
-colgarÃÄÅÆñòõ
+colgar
 colibacilo
 colibacilosis
 colibrí
@@ -24943,7 +24914,7 @@ comprimido
 comprimido
 comprimir
 comprobante
-comprobarÐÝTA
+comprobarTA
 comprobatorio
 comprometedor
 comprometer
@@ -24956,7 +24927,7 @@ comprueba
 compuerta
 compuesta
 compuesto
-compuestoSG
+compuesto
 compulsar
 compulsivo
 compulsión
@@ -25061,7 +25032,7 @@ concejo
 concelebrar
 concentrado
 concentrador
-concentrarpREDÄÅñòôøTA
+concentrar
 concepciano
 concepcionero
 concepcionino
@@ -25101,7 +25072,7 @@ concertada
 concertadamente
 concertador
 concertante
-concertarÅñòAh
+concertar
 concertina
 concertino
 concertista
@@ -25229,7 +25200,7 @@ conducción
 conducencia
 conducente
 conducho
-conducirÉÊÕÌñóT
+conducir
 conducta
 conductible
 conducticio
@@ -25240,7 +25211,7 @@ conduerma
 condumio
 condurar
 condón
-conectarÙñòôT
+conectar
 conectividad
 conectivo
 conector
@@ -25268,13 +25239,13 @@ conferencia
 conferenciante
 conferenciar
 conferencista
-conferirÊ
+conferir
 confesa
 confesa
 confesable
 confesado
 confesante
-confesarÃÅñòõ
+confesar
 confesional
 confesionalidad
 confesionario
@@ -25292,7 +25263,7 @@ confiadamente
 confiado
 confianza
 confianzudo
-confiarÃÅÆÑÞñòõT
+confiar
 conficionar
 confidencia
 confidencial
@@ -25459,7 +25430,7 @@ conminativo
 conminatorio
 conmiserativo
 conmocionar
-conmoverñò
+conmover
 conmutabilidad
 conmutable
 conmutador
@@ -25475,7 +25446,7 @@ connotativo
 connumerar
 cono
 conocedor
-conocedorSGp
+conocedorp
 conocer
 conocible
 conocidap
@@ -25513,7 +25484,7 @@ consecuente
 consecuentemente
 consecutivamente
 consecutivo
-conseguirÃÊÕâ
+conseguir
 conseja
 consejar
 consejero
@@ -25522,7 +25493,7 @@ consejo
 consenso
 consensuar
 consentidor
-consentirÃ
+consentir
 conserje
 conserjería
 conserva
@@ -25565,8 +25536,8 @@ consograr
 consola
 consolable
 consolación
-consoladorSG
-consolarÄÅñòõù
+consolador
+consolar
 consolativo
 consolatorio
 consoldar
@@ -25608,7 +25579,7 @@ constitucionalista
 constitucionalmente
 constitución
 constituidor
-constituirñó
+constituiró
 constitutivo
 constituyente
 constituyente
@@ -25674,7 +25645,7 @@ contaminador
 contaminante
 contaminar
 contante
-contarÃÄÅÆÇÐÑÒÓÝÞßàñòõù
+contar
 contecer
 contemperar
 contemplación
@@ -25693,14 +25664,14 @@ contendedor
 contender
 contenedor
 contenedor
-contenerñóö
+contener
 contenido
 contenido
 contenta
 contenta
 contentadamente
 contentadiza
-contentadizoSG
+contentadizo
 contentamente
 contentamiento
 contentar
@@ -25743,7 +25714,7 @@ continuadamente
 continuado
 continuador
 continuamente
-continuarÄ
+continuar
 continuativo
 continuidad
 continuo
@@ -26016,7 +25987,7 @@ converso
 convertible
 convertible
 convertidor
-convertirÃÉÊËÔäñóöú
+convertir
 convexa
 convexidad
 convexo
@@ -26327,8 +26298,7 @@ correduría
 corregibilidad
 corregible
 corregidor
-corregirÕÔ
-corregirñ
+corregir
 correhuela
 correlativamente
 correlato
@@ -26366,7 +26336,7 @@ corrimiento
 corrincho
 corro
 corroborar
-corroerñ
+corroer
 corromper
 corrompidamente
 corroncha
@@ -26531,7 +26501,7 @@ costalero
 costana
 costanera
 costanero
-costarÅÆ
+costar
 costarricense
 coste
 costear
@@ -26643,7 +26613,7 @@ creativo
 creativo
 crecedero
 crecentar
-crecerÅÆñò
+crecer
 crecida
 crecido
 crecidos
@@ -27204,7 +27174,7 @@ cuis
 cuis
 cuita
 cuitada
-cuitadoSG
+cuitado
 cuitear
 cuitivano
 cuitlacoche
@@ -27865,7 +27835,7 @@ dedil
 dedillo
 dedolar
 deducción
-deducirT
+deducir
 deductivamente
 defamar
 defecación
@@ -27877,7 +27847,7 @@ defectible
 defectivo
 defectuoso
 defendedor
-defenderÄÐñòõù
+defender
 defendible
 defendido
 defenestrar
@@ -28304,7 +28274,7 @@ derrengar
 derretido
 derretido
 derretimiento
-derretirñ
+derretir
 derriba
 derribado
 derribador
@@ -28436,7 +28406,7 @@ desaferrar
 desafiadero
 desafiador
 desafiante
-desafiarÅÆ
+desafiar
 desafijar
 desafilar
 desafinar
@@ -28893,7 +28863,7 @@ descogollar
 descogotar
 descolar
 descolchar
-descolgarñò
+descolgar
 descoligado
 descollamiento
 descollante
@@ -28950,7 +28920,7 @@ descongelar
 descongestionar
 descongojar
 desconhortar
-desconocerñò
+desconocer
 desconsejar
 desconsentir
 desconsideradamente
@@ -28960,7 +28930,7 @@ desconsolar
 descontado
 descontagiar
 descontaminar
-descontarÃ
+descontar
 descontentar
 descontento
 descontinuar
@@ -29249,7 +29219,7 @@ desengarzar
 desengastar
 desengavetar
 desengañado
-desengañarø
+desengañar
 desengañilar
 desengomar
 desengoznar
@@ -29297,7 +29267,7 @@ desentalingar
 desentarimar
 desentechar
 desentejar
-desenterrarÄ
+desenterrar
 desentierramuertos
 desentoldar
 desentollecer
@@ -29393,67 +29363,67 @@ desformar
 desfortalecer
 desfruncir
 desfundar
-desga
-desgaire
-desgajadura
-desgajar
-desgalgadero
-desgalgar
-desgalichado
-desganadamente
-desganar
-desganchar
-desgarbado
-desgarbilado
-desgargantar
-desgargolar
-desgaritar
-desgarrado
-desgarrador
-desgarradura
-desgarramiento
-desgarrar
-desgarreate
-desgarriate
-desgarro
-desgastadamente
-desgastamiento
-desgastar
-desgaste
-desgatar
-desgaznatar
-desgañifar
-desgañitar
-desglosar
-desgobernadura
-desgobernar
-desgolletar
-desgomar
-desgonzar
-desgorrar
-desgotar
-desgoznar
-desgraciadamente
-desgraciado
-desgraciar
-desgraduar
-desgramar
-desgranador
-desgranador
-desgranamiento
-desgranar
-desgranzar
-desgrasar
-desgravación
-desgravar
-desgreñar
-desgualdrajar
-desguarnecer
-desguarnir
-desguazar
-desguañangar
-desguindar
-desguinzar
+dea
+deaire
+deajadura
+deajar
+dealgadero
+dealgar
+dealichado
+deanadamente
+deanar
+deanchar
+dearbado
+dearbilado
+deargantar
+deargolar
+dearitar
+dearrado
+dearrador
+dearradura
+dearramiento
+dearrar
+dearreate
+dearriate
+dearro
+deastadamente
+deastamiento
+deastar
+deaste
+deatar
+deaznatar
+deañifar
+deañitar
+delosar
+deobernadura
+deobernar
+deolletar
+deomar
+deonzar
+deorrar
+deotar
+deoznar
+deraciadamente
+deraciado
+deraciar
+deraduar
+deramar
+deranador
+deranador
+deranamiento
+deranar
+deranzar
+derasar
+deravación
+deravar
+dereñar
+deualdrajar
+deuarnecer
+deuarnir
+deuazar
+deuañangar
+deuindar
+deuinzar
 deshabilitar
 deshabitar
 deshabituar
@@ -29603,7 +29573,7 @@ deslucir
 deslumbrador
 deslumbramiento
 deslumbrante
-deslumbrarñ
+deslumbrar
 deslustrador
 deslustrar
 desmadejado
@@ -29854,7 +29824,7 @@ despedazamiento
 despedazar
 despedida
 despedimiento
-despedirÉÊñóöú
+despedir
 despedrar
 despedregar
 despegador
@@ -29898,7 +29868,6 @@ despernar
 despersonalizar
 despertador
 despertamiento
-despertarÅÞñòõù
 despertar
 despesar
 despescar
@@ -29948,7 +29917,7 @@ desplante
 desplatar
 desplayar
 desplazamiento
-desplazarñòôøT
+desplazar
 desplegable
 desplegar
 despleguetear
@@ -29960,7 +29929,7 @@ despoblar
 despoetizar
 despojador
 despojamiento
-despojarñòô
+despojar
 despojo
 despolarizador
 despolarizar
@@ -29984,7 +29953,7 @@ desprender
 desprendido
 despreocupadamente
 despreocupado
-despreocuparø
+despreocupar
 despresar
 desprestigiar
 despresurizar
@@ -30144,7 +30113,7 @@ destructividad
 destructivo
 destructor
 destructor
-destruirÊñóT
+destruir
 destullecer
 destupir
 desturbar
@@ -30232,12 +30201,12 @@ desviacionista
 desviación
 desviador
 desviamiento
-desviarÄñò
+desviar
 desviejar
 desvincular
 desvirar
 desvirgar
-desvirtuarÄ
+desvirtuar
 desvitrificar
 desvivir
 desvolvedor
@@ -30269,7 +30238,7 @@ detectivesco
 detector
 detención
 detenedor
-detenerÉÖáñóöú
+detener
 detenidamente
 detenido
 detenimiento
@@ -30795,7 +30764,7 @@ dirigencia
 dirigente
 dirigible
 dirigida
-dirigirñòôøT
+dirigir
 dirimente
 dirimir
 dirá
@@ -30924,15 +30893,15 @@ disfrute
 disfumar
 disfumino
 disfunción
-disgregación
-disgregador
-disgregante
-disgregar
-disgregativo
-disgustado
-disgustar
-disgusto
-disgustoso
+diregación
+diregador
+diregante
+diregar
+diregativo
+diustado
+diustar
+diusto
+diustoso
 disidencia
 disidente
 disidir
@@ -30959,7 +30928,7 @@ disléxico
 dismenorrea
 disminución
 disminuido
-disminuirñú
+disminuirú
 disnea
 disociación
 disociador
@@ -31067,7 +31036,7 @@ distorsionador
 distorsionar
 distorsión
 distracción
-distraerÉÊñóö
+distraer
 distraimiento
 distraídamente
 distraído
@@ -31119,7 +31088,7 @@ diverso
 divertido
 divertimento
 divertimiento
-divertirÉñóöú
+divertir
 dividendo
 divididero
 dividir
@@ -31268,7 +31237,7 @@ doladura
 dolama
 dolame
 dolencia
-dolerñò
+doler
 dolicocefalia
 dolicocéfalo
 doliente
@@ -31389,7 +31358,7 @@ dormiente
 dormijoso
 dormilón
 dormilón
-dormirÉñóöú
+dormir
 dormitar
 dormitivo
 dormitorio
@@ -31914,7 +31883,7 @@ efectivo
 efectivo
 efecto
 efector
-efectuarÄÝ
+efectuar
 efeminar
 efemérides
 eferente
@@ -32297,7 +32266,7 @@ embelga
 embellaquecer
 embellecedor
 embellecedor
-embellecerÄñ
+embellecer
 embellecimiento
 embeodar
 embermejar
@@ -32656,7 +32625,7 @@ emperramiento
 emperrar
 empersonar
 empesador
-empesgar
+empear
 empestar
 empestillar
 empetatar
@@ -32715,7 +32684,7 @@ emplumajar
 emplumar
 emplumecer
 empobrecedor
-empobrecerñò
+empobrecer
 empobrecimiento
 empoderar
 empodrecer
@@ -32985,7 +32954,7 @@ encarecidamente
 encargado
 encargamiento
 encargar
-encargaròôø
+encargar
 encargue
 encariñar
 encarnación
@@ -33048,7 +33017,7 @@ encebadamiento
 encebadar
 encebollar
 enceguecedor
-enceguecerÅò
+enceguecer
 encelajar
 encelamiento
 encelar
@@ -33063,7 +33032,7 @@ encencerrado
 encendaja
 encendedor
 encendedor
-encenderÒÝñò
+encender
 encendido
 encendido
 encendimiento
@@ -33084,7 +33053,6 @@ encerar
 encernadar
 encerotar
 encerradero
-encerrarÅÆñòõ
 encerrizar
 encerrona
 encespedar
@@ -33170,7 +33138,7 @@ encolar
 encolerizado
 encolerizar
 encomendado
-encomendarñòùT
+encomendar
 encomendero
 encomenzar
 encomiador
@@ -33192,7 +33160,7 @@ enconoso
 enconrear
 encontradizo
 encontrado
-encontrarÃÄÅÆñòù
+encontrar
 encontrón
 encopetar
 encorachar
@@ -33355,7 +33323,7 @@ endulzurar
 endurador
 endurar
 endurecedor
-endurecerÄÅò
+endurecer
 endurecimiento
 endémico
 ene
@@ -33473,7 +33441,7 @@ enfriadero
 enfriador
 enfriador
 enfriamiento
-enfriarÐñù
+enfriarù
 enfrontar
 enfrontilar
 enfroscar
@@ -33536,7 +33504,7 @@ engarrotar
 engarzador
 engarzadura
 engarzar
-engasgar
+engaar
 engastador
 engastadura
 engastar
@@ -33618,7 +33586,7 @@ engredar
 engreimiento
 engrescar
 engreído
-engreírñ
+engreír
 engrifar
 engrillar
 engrilletar
@@ -33656,7 +33624,7 @@ engurruminar
 engurrumir
 engurruñar
 engurruñir
-engusgar
+enguar
 engüerar
 enhacinar
 enhadar
@@ -33726,7 +33694,7 @@ enjoyelado
 enjoyelador
 enjuagadientes
 enjuagadura
-enjuagarø
+enjuagar
 enjuagatorio
 enjuague
 enjugador
@@ -33819,7 +33787,7 @@ enmechar
 enmelar
 enmendador
 enmendadura
-enmendarñT
+enmenda
 enmicar
 enmienda
 enmocecer
@@ -33850,7 +33818,7 @@ enojadizo
 enojar
 enojosa
 enojosamente
-enojosoSG
+enojoso
 enorgullecedor
 enorgullecer
 enorgullecimiento
@@ -33908,7 +33876,7 @@ enriostrar
 enripiar
 enrique
 enriquecedor
-enriquecerÄñò
+enriquecer
 enriquecimiento
 enriscamiento
 enriscar
@@ -34081,7 +34049,6 @@ entelerido
 entenciar
 entendedor
 entender
-entenderrstIRTDÃÄÐÑñòù
 entendida
 entendido
 entendimiento
@@ -34111,7 +34078,7 @@ entero
 enterocolitis
 enterrador
 enterramiento
-enterrarÅÆÐÑñò
+enterrar
 enterísima
 entesar
 entestar
@@ -34250,7 +34217,7 @@ entremostrar
 entremés
 entrenador
 entrenamiento
-entrenarø
+entrenar
 entrencar
 entrenudo
 entrenzar
@@ -34275,7 +34242,7 @@ entretejer
 entretela
 entretelar
 entretenedor
-entretenerÉÊñóú
+entretener
 entretenidamente
 entretenido
 entretenido
@@ -34372,7 +34339,7 @@ envasar
 envase
 envedijar
 envegar
-envejecerÄ
+envejecer
 envejecido
 envejecimiento
 envelar
@@ -34392,7 +34359,7 @@ envesar
 envestir
 enviado
 enviajado
-enviarÃÄÅÆÐÑÒÓÝÞßà
+enviar
 enviciamiento
 enviciar
 enviciosarse
@@ -34638,7 +34605,7 @@ erguidos
 erguimiento
 erguimos
 erguir
-erguirñ
+erguir
 erguiremos
 erguirse
 erguirá
@@ -35173,7 +35140,7 @@ escualo
 escualor
 escucha
 escuchador
-escucharÍÎÙÚÛñòø
+escuchar
 escuchimizado
 escudar
 escudella
@@ -35279,7 +35246,6 @@ esforrocinar
 esforzadamente
 esforzado
 esforzador
-esforzarÅñòõù
 esfoyar
 esfoyaza
 esfriar
@@ -35289,21 +35255,21 @@ esfuminar
 esférica
 esférico
 esférico
-esgarrar
-esgonzar
-esgrafiar
-esgrima
-esgrimidor
-esgrimidura
-esgrimir
-esgrimista
-esguardamillar
-esguardar
-esguarde
-esguazar
-esgucio
-esguilar
-esguince
+earrar
+eonzar
+erafiar
+erima
+erimidor
+erimidura
+erimir
+erimista
+euardamillar
+euardar
+euarde
+euazar
+eucio
+euilar
+euince
 eslabonador
 eslabonamiento
 eslabonar
@@ -35557,7 +35523,7 @@ espetera
 espeto
 espetón
 espiar
-espiarÅÆ
+espiar
 espibia
 espicanardo
 espichar
@@ -35774,7 +35740,7 @@ esquisar
 esquisto
 esquistoso
 esquitar
-esquivarñ
+esquivar
 esquivez
 esquivo
 esquizado
@@ -35794,7 +35760,7 @@ estabilizar
 estable
 establear
 establecedor
-establecerÄÆñòù
+establecer
 establecido
 establecimiento
 establemente
@@ -36084,7 +36050,7 @@ estirada
 estirado
 estirajar
 estiramiento
-estirarÌñòô
+estirar
 estirazar
 estirpe
 estirón
@@ -36206,7 +36172,7 @@ estrelladero
 estrellado
 estrellamar
 estrellamiento
-estrellarñ
+estrellar
 estrellar
 estrellera
 estrellero
@@ -36505,7 +36471,7 @@ evacuatorio
 evadir
 evaluación
 evaluador
-evaluarÄñ
+evaluar
 evaluativo
 evanecer
 evanescente
@@ -36539,7 +36505,7 @@ evidente
 evidentemente
 eviscerar
 evitable
-evitarñòø
+evitar
 eviterno
 evo
 evocación
@@ -36614,7 +36580,7 @@ excepción
 exceptar
 excepto
 excepto
-exceptuarÄÅò
+exceptuar
 excesivamente
 excesivo
 exceso
@@ -36632,7 +36598,7 @@ exclamativo
 exclamatorio
 exclaustrar
 excluidor
-excluirñóT
+excluiróT
 exclusiva
 exclusiva
 exclusivamente
@@ -36776,7 +36742,7 @@ expediente
 expediente
 expedientemente
 expedir
-expedirñ
+expedir
 expeditivo
 expedito
 expeler
@@ -36849,7 +36815,7 @@ expositor
 expremijo
 expremir
 expresamente
-expresarô
+expresar
 expresionismo
 expresionista
 expresiva
@@ -36943,7 +36909,7 @@ extradición
 extradir
 extraditar
 extraembrionario
-extraerÃÊ
+extraer
 extraescolar
 extrajudicial
 extrajudicialmente
@@ -37806,13 +37772,13 @@ fiscalizador
 fiscalizar
 fiscalía
 fisco
-fisga
-fisgador
-fisgar
-fisgonamente
-fisgonear
-fisgoneo
-fisgón
+fia
+fiador
+fiar
+fionamente
+fionear
+fioneo
+fión
 fisio
 fisiología
 fisiológico
@@ -38187,7 +38153,7 @@ forrar
 forro
 forros
 fortalecedor
-fortalecerñò
+fortalecer
 fortalecimiento
 fortaleza
 fortificación
@@ -38207,7 +38173,7 @@ forzado
 forzado
 forzado
 forzamiento
-forzarÅÆñò
+forzar
 forzosa
 forzosamente
 forzoso
@@ -38383,8 +38349,7 @@ fregador
 fregadura
 fregajo
 fregamiento
-fregarÃÄÆ
-fregarñõ
+fregar
 fregata
 fregotear
 freidor
@@ -38435,7 +38400,7 @@ freza
 frezador
 frezar
 freático
-freírÔñ
+freír
 friable
 friais
 frialdad
@@ -39639,7 +39604,7 @@ gobernalle
 gobernanta
 gobernante
 gobernanza
-gobernarÄÅñò
+gobernar
 gobernativo
 gobernatura
 gobierna
@@ -39804,7 +39769,7 @@ graduador
 gradual
 gradualmente
 graduando
-graduarñT
+gradua
 grafeno
 graficar
 grafitero
@@ -39847,7 +39812,7 @@ granadero
 granadillo
 granadino
 granado
-granadoSG
+granado
 granallar
 granar
 granate
@@ -40313,7 +40278,6 @@ guiadera
 guiado
 guiador
 guiais
-guiarÅÆÑñòõù
 guido
 guie
 guieis
@@ -40412,7 +40376,7 @@ gusarapiento
 gusarapo
 gustación
 gustadura
-gustarÚÛT
+gustar
 gustativo
 gusto
 gustos
@@ -40498,7 +40462,7 @@ habilitación
 habilitado
 habilitador
 habilitante
-habilitarñpk
+habilitarpk
 habillado
 habiloso
 habitabilidad
@@ -40552,7 +40516,7 @@ hablado
 hablador
 habladuría
 hablante
-hablarÍÎñòø
+hablar
 hablista
 habremos
 habrá
@@ -40604,7 +40568,7 @@ hacedlos
 hacedme
 hacednos
 hacedor
-hacedorSG
+hacedor
 hacela
 hacelas
 hacele
@@ -40779,7 +40743,7 @@ harre
 harrear
 harria
 harriero
-hartarô
+hartar
 hartazgo
 hartera
 harto
@@ -40903,7 +40867,7 @@ helado
 helador
 heladura
 helamiento
-helarñT
+hela
 helear
 helechal
 helecho
@@ -41091,7 +41055,7 @@ herido
 heridor
 heril
 herimiento
-herirÉÊÕ
+herir
 herma
 hermafrodita
 hermafroditismo
@@ -41177,7 +41141,7 @@ herver
 hervidero
 hervido
 hervidor
-hervirÊ
+herviré
 hervor
 hervorizarse
 hervoroso
@@ -42009,7 +41973,7 @@ huifa
 huilense
 huilte
 huincha
-huirñó
+huiró
 huira
 huiro
 huis
@@ -42047,7 +42011,7 @@ humectar
 humectativo
 humedad
 humedal
-humedecerÆñ
+humedecer
 humera
 humeral
 humeral
@@ -42082,7 +42046,7 @@ humosidad
 humoso
 humus
 hundimiento
-hundirôT
+hundirT
 hungarina
 huno
 hupe
@@ -42455,7 +42419,7 @@ impedancia
 impedido
 impediente
 impedimenta
-impedirÃÉÊË
+impediré
 impeditivo
 impelente
 impeler
@@ -42716,7 +42680,7 @@ inclinado
 inclinador
 inclinar
 inclinativo
-incluirÃÉÊ
+incluiré
 inclusa
 inclusero
 inclusivamente
@@ -42772,7 +42736,7 @@ inconvencible
 inconveniente
 incordiar
 incorporación
-incorporarÌÎÙñòôø
+incorporar
 incorrectamente
 incrasar
 increado
@@ -43152,7 +43116,7 @@ iniciador
 inicial
 inicializar
 inicialmente
-iniciarñò
+iniciar
 iniciativa
 iniciativo
 inicio
@@ -43214,7 +43178,7 @@ inmortalmente
 inmortificado
 inmotivadamente
 inmotivado
-inmovilizarñ
+inmovilizar
 inmueble
 inmundo
 inmune
@@ -43247,7 +43211,7 @@ inocente
 inocentemente
 inocuidad
 inoculador
-inocularò
+inocular
 inocultable
 inocuo
 inodoro
@@ -43265,7 +43229,7 @@ inquietar
 inquilino
 inquinamento
 inquinar
-inquirirÊ
+inquiriré
 inquisición
 inquisidor
 inquisidor
@@ -43316,7 +43280,7 @@ insimular
 insinuación
 insinuador
 insinuante
-insinuarÃÅÆñò
+insinuar
 insipidez
 insipiente
 insistencia
@@ -43387,7 +43351,7 @@ instructivamente
 instructivo
 instructor
 instruido
-instruirÉÊñó
+instruiré
 instrumentación
 instrumental
 instrumentalización
@@ -43505,13 +43469,13 @@ interdisciplinar
 interdisciplinario
 interesada
 interesadamente
-interesadoSG
+interesado
 interesante
 interesar
 interfase
 interfecto
 interferencia
-interferirñ
+interferir
 interfoliar
 interfono
 intergeneracional
@@ -43636,7 +43600,7 @@ intrincadamente
 intrincado
 intrincar
 introducción
-introducirÊñóú
+introduciré
 introductor
 introductorio
 introito
@@ -43708,7 +43672,7 @@ inversionista
 inverso
 inversor
 invertido
-invertirÔ
+invertir
 investigación
 investigador
 investigar
@@ -44558,7 +44522,7 @@ junqueral
 junta
 junta
 juntamente
-juntarø
+juntar
 juntera
 juntero
 junto
@@ -45517,7 +45481,7 @@ león
 leónica
 liais
 liana
-liarñòõ
+liar
 liaza
 libación
 libamen
@@ -45732,7 +45696,7 @@ limpiadura
 limpiamente
 limpiaparabrisas
 limpiaplumas
-limpiarÃÇñòôø
+limpiar
 limpidez
 limpieza
 limpio
@@ -46267,7 +46231,7 @@ lucillo
 lucimientoSi
 lucio
 lucio
-lucirÅñòT
+lucir
 luciérnaga
 lución
 lucrar
@@ -46838,7 +46802,7 @@ malcriado
 malcriar
 maldad
 maldecidor
-maldecirÉÊ
+maldeciré
 maldicho
 maldiciente
 maldición
@@ -47202,7 +47166,7 @@ manifestación
 manifestador
 manifestador
 manifestante
-manifestarñò
+manifestar
 manifestativo
 manifiestamente
 manifiesto
@@ -47325,7 +47289,7 @@ mantenedor
 mantenedor
 mantenedora
 mantenencia
-mantenerÅÉÖñóöú
+mantener
 mantenida
 mantenido
 mantenido
@@ -47805,7 +47769,7 @@ matapiojos
 matapollo
 matapolvo
 matapulgas
-matarÌÎñòôp
+matar
 matarife
 matarrubia
 matasellos
@@ -48087,7 +48051,7 @@ mediodía
 medioevo
 mediomundo
 mediquillo
-medirÊñóöúá
+medir
 meditabundo
 meditación
 meditador
@@ -48357,7 +48321,7 @@ mental
 mentalidad
 mentalizar
 mentalmente
-mentarÃÆÞ
+mentarÞ
 mentastro
 mente
 mentecapto
@@ -48367,7 +48331,7 @@ mentecato
 mentesano
 mentidero
 mentido
-mentirÊñó
+mentiré
 mentira
 mentirijillas
 mentirillas
@@ -48434,8 +48398,8 @@ mercurial
 mercurio
 mercurioso
 merdoso
-merecedorSG
-merecerÃÄ
+merecedor
+merecer
 merecidamente
 merecido
 merecimiento
@@ -49148,7 +49112,7 @@ modernismo
 modernista
 modernización
 modernizador
-modernizarø
+modernizar
 moderno
 moderno
 modesta
@@ -49261,7 +49225,7 @@ moldeable
 moldeado
 moldeador
 moldeamiento
-moldearREDÄ
+moldearRED
 moldeo
 moldura
 moldurar
@@ -49627,7 +49591,7 @@ mordazmente
 mordedor
 mordedura
 mordente
-morderÃÄÅÆÑÒ
+morder
 mordicante
 mordicar
 mordicativo
@@ -49803,7 +49767,7 @@ mosto
 mostrable
 mostrador
 mostrador
-mostrarÃÄÑÒÇÝÞßàñòõù
+mostrar
 mostrativa
 mostrativo
 mostrenco
@@ -49848,7 +49812,7 @@ mouse
 movedizo
 movedor
 movedura
-moverÄÝñòõù
+mover
 movible
 movido
 moviente
@@ -50104,9 +50068,9 @@ musculoso
 muselina
 museo
 muserola
-musgo
-musgo
-musgoso
+muo
+muo
+muoso
 musical
 musicalidad
 musicalización
@@ -50575,7 +50539,7 @@ negadamente
 negado
 negador
 negamiento
-negarÃÇÐñòõù
+negar
 negativa
 negativamente
 negativo
@@ -50699,7 +50663,7 @@ nervudo
 nervura
 nerón
 nesciencia
-nesgar
+near
 nestorianismo
 nestoriano
 netamente
@@ -51512,7 +51476,7 @@ ofidio
 ofimática
 ofita
 ofrecedor
-ofrecerÃÅÆßñòõù
+ofrecer
 ofrecimiento
 ofrenda
 ofrendar
@@ -52292,7 +52256,7 @@ oílo
 oílos
 oíme
 oínos
-oírÃÉÊË
+oíré
 pH
 pabellón
 pabilo
@@ -52974,7 +52938,7 @@ parduzco
 pareado
 parear
 parecencia
-parecerñò
+parecer
 parecer
 parecido
 parecido
@@ -53215,7 +53179,7 @@ pasivo
 pasión
 pasma
 pasmado
-pasmarø
+pasmar
 pasmarota
 pasmarotada
 pasmarote
@@ -53426,7 +53390,7 @@ pavonear
 pavor
 pavordear
 pavorida
-pavoridoSG
+pavorido
 pavorosamente
 pavoroso
 pavura
@@ -53554,7 +53518,7 @@ pedidura
 pedigüeño
 pediluvio
 pedimento
-pedirÃÉÊËÔÕÖØáâã
+pedir
 pediátrico
 pedo
 pedo
@@ -53601,7 +53565,7 @@ pegajosidad
 pegajoso
 pegamento
 pegamiento
-pegarÎñòô
+pegar
 pegaseo
 pegata
 pegatina
@@ -53655,7 +53619,7 @@ pelamen
 pelandusca
 pelar
 pelargonio
-pelasgo
+pelao
 pelaza
 peldaño
 pelea
@@ -53746,7 +53710,7 @@ pelusa
 pelvi
 pelviano
 pelvis
-pelásgico
+peláico
 pelícano
 pelícano
 película
@@ -53828,7 +53792,7 @@ pensador
 pensador
 pensamiento
 pensante
-pensarÃÄÅÆÇÐÝø
+pensarÇ
 pensativo
 penseque
 pensilvano
@@ -53923,7 +53887,7 @@ percusor
 percutir
 percutor
 perdedor
-perderÃÄñòõù
+perder
 perdicera
 perdición
 perdida
@@ -54198,7 +54162,7 @@ persecución
 persecutorio
 perseguidor
 perseguimiento
-perseguirÉÊ
+perseguiré
 persevante
 perseverancia
 perseverante
@@ -54236,7 +54200,7 @@ perspicaz
 perspicuidad
 perspicuo
 persuadidor
-persuadirñ
+persuadir
 persuasible
 persuasiva
 persuasivo
@@ -54314,7 +54278,7 @@ pesebrejo
 pesebrera
 peseta
 pesetero
-pesgar
+pear
 pesiar
 pesillo
 pesimismo
@@ -54525,7 +54489,6 @@ pietismo
 pietista
 pieza
 piezgo
-piezoelectricidad
 piezoeléctrico
 pifiar
 pigargo
@@ -55096,7 +55059,7 @@ plegador
 plegador
 plegadura
 plegamiento
-plegarñT
+plega
 plegaria
 pleguete
 pleistoceno
@@ -55718,7 +55681,7 @@ posca
 posdata
 posdiluviano
 poseedor
-poseerREDÄÅÌñò
+poseer
 posesional
 posesionar
 posesionero
@@ -55733,8 +55696,8 @@ poseída
 poseído
 posfecha
 posfijo
-posgrado
-posguerra
+porado
+pouerra
 posibilidad
 posibilismo
 posibilitar
@@ -56026,7 +55989,7 @@ prefectura
 preferencia
 preferentemente
 preferiblemente
-preferirñT
+preferi
 prefigurar
 prefijar
 prefijo
@@ -56088,7 +56051,7 @@ prendario
 prendedero
 prendedor
 prendedura
-prenderñòø
+prender
 prendida
 prendido
 prendido
@@ -56173,7 +56136,7 @@ presentir
 presepio
 preservación
 preservador
-preservarñ
+preservar
 preservativo
 preservativo
 presidario
@@ -56307,7 +56270,7 @@ prevaricar
 prevención
 prevenida
 prevenido
-prevenirñ
+prevenir
 preventivamente
 preventivo
 preventorio
@@ -56461,7 +56424,7 @@ probador
 probador
 probadura
 probanza
-probarÄÃñòõù
+probar
 probatoria
 probatoria
 probatorio
@@ -56588,7 +56551,7 @@ progresión
 progreso
 prohibición
 prohibido
-prohibirÃÄÅÆÇ
+prohibirÇ
 prohibitivo
 prohibitorio
 prohijamiento
@@ -56687,11 +56650,11 @@ proponer
 proponé
 proporcionada
 proporcionadamente
-proporcionadoSG
+proporcionado
 proporcional
 proporcionalidad
 proporcionalmente
-proporcionaròT
+proporcionar
 proporción
 proposicional
 propositivo
@@ -57465,7 +57428,6 @@ querelloso
 querencia
 querencioso
 querer
-quererÉÊËÔÕá
 queresa
 querido
 quermes
@@ -57659,7 +57621,7 @@ quitanieves
 quitanza
 quitapelillos
 quitapesares
-quitaròôø
+quitar
 quitasol
 quitasolillo
 quitina
@@ -58015,19 +57977,19 @@ rasera
 rasero
 rases
 rasete
-rasgada
-rasgado
-rasgado
-rasgador
-rasgadura
-rasgar
-rasgar
-rasgo
-rasguear
-rasgueo
-rasguñar
-rasguño
-rasgón
+raada
+raado
+raado
+raador
+raadura
+raar
+raar
+rao
+rauear
+raueo
+rauñar
+rauño
+raón
 rasmillar
 raso
 rasoliso
@@ -58417,7 +58379,7 @@ recomendablemente
 recomendación
 recomendado
 recomendante
-recomendarÅñòT
+recomendar
 recomenzar
 recomer
 recompensa
@@ -58435,7 +58397,7 @@ reconditez
 reconducible
 reconducir
 reconfortar
-reconocerÃÄÅñòõ
+reconocer
 reconocible
 reconociblemente
 reconquistar
@@ -58446,7 +58408,7 @@ recontamiento
 recontar
 recontento
 reconvalecer
-reconvenirÊ
+reconveniré
 reconvení
 reconvertir
 reconvén
@@ -58459,7 +58421,7 @@ recopilatorio
 recordable
 recordación
 recordador
-recordarÄÃÅÇÏÓÝÞßñòõù
+recordar
 recordativo
 recordativo
 recordatorio
@@ -58472,7 +58434,7 @@ recortar
 recorvar
 recoser
 recostadero
-recostarÄñòõù
+recostar
 recovar
 recoveco
 recovero
@@ -58614,7 +58576,7 @@ reducción
 reducible
 reducido
 reducimiento
-reducirñóú
+reduciróú
 reductible
 reducto
 reductor
@@ -58638,7 +58600,7 @@ reemplazo
 reencarnación
 reencarnar
 reencauchar
-reencontrarñò
+reencontrar
 reencuadernar
 reencuentro
 reenganchamiento
@@ -58667,7 +58629,7 @@ referenciar
 referendario
 referendo
 referente
-referirÉÊñóúT
+referiré
 refertar
 referéndum
 refez
@@ -58795,8 +58757,8 @@ regalo
 regalía
 regalón
 regante
-regarÄÐÝ
-regarñù
+regar
+regarù
 regate
 regatear
 regatear
@@ -58840,11 +58802,11 @@ regionalista
 regionalización
 regionario
 regionario
-regirñ
+regir
 registrada
 registrador
 registraduría
-registrarô
+registrar
 registro
 regitivo
 región
@@ -59229,7 +59191,7 @@ remostar
 remostecer
 remotamente
 remoto
-removerÄñ
+remover
 remozamiento
 remozar
 remplazar
@@ -59244,7 +59206,7 @@ remunerador
 remunerar
 remunerativo
 remuneratorio
-remusgar
+remuar
 renacentista
 renacer
 renacuajo
@@ -59267,8 +59229,7 @@ rendidamente
 rendido
 rendija
 rendimiento
-rendirÊËñ
-rene
+rendiré
 renegado
 renegar
 renegrear
@@ -59287,7 +59248,7 @@ renitente
 reno
 renovación
 renovador
-renovarñT
+renova
 renqueante
 renquear
 renquera
@@ -59372,7 +59333,7 @@ repescar
 repetibilidad
 repetidamente
 repetidor
-repetirÃÉñóúT
+repetirÉñóúT
 repetitividad
 repetitivo
 repicar
@@ -59411,7 +59372,7 @@ reponer
 reponé
 reportaje
 reportamiento
-reportarø
+reportar
 reportear
 reporterismo
 reportista
@@ -59449,7 +59410,7 @@ reprochar
 reproche
 reproducibilidad
 reproducible
-reproducirñ
+reproducir
 reproductivamente
 repropiar
 reptar
@@ -59482,7 +59443,7 @@ requebrar
 requemado
 requeridor
 requerimiento
-requerirÉÊ
+requeriré
 requetebién
 requintador
 requintar
@@ -59547,7 +59508,7 @@ reseguir
 resellar
 resemblar
 resembrar
-resentirñ
+resentir
 resequido
 reserva
 reservación
@@ -59565,8 +59526,8 @@ resfriadura
 resfriamiento
 resfriante
 resfriar
-resguardar
-resguardo
+reuardar
+reuardo
 residencia
 residencial
 residenciar
@@ -59577,7 +59538,7 @@ residuo
 resigna
 resignación
 resignadamente
-resignarø
+resignar
 resignatario
 resiliencia
 resina
@@ -59622,7 +59583,7 @@ resorber
 resorte
 respahilando
 respahilar
-respaldarñò
+respaldar
 respaldar
 respaldo
 respectar
@@ -59701,12 +59662,12 @@ restinga
 restingar
 restitución
 restituidor
-restituirÊñT
+restituir
 restitutorio
 resto
 restregadura
 restregamiento
-restregarÃÄÅÆÇ
+restregarÇ
 restrepense
 restrepeño
 restribar
@@ -59774,7 +59735,7 @@ retel
 retemblar
 retención
 retenedor
-retenerñó
+reteneró
 retenidamente
 retenimiento
 retentar
@@ -59804,7 +59765,7 @@ retocador
 retocar
 retomar
 retor
-retorcerÃÄÅÆÇñò
+retorcer
 retorcido
 retorcijar
 retorcijo
@@ -59853,7 +59814,7 @@ retrechero
 retrepar
 retrete
 retribución
-retribuirÃÊ
+retribuiré
 retributivo
 retrillar
 retro
@@ -59870,7 +59831,7 @@ retrogradar
 retroguardia
 retronar
 retrospectivo
-retrotraerñó
+retrotraeró
 retrovender
 retroventa
 retrovisor
@@ -59895,7 +59856,7 @@ reumatoide
 reumática
 reumático
 reunificación
-reunirÅñòõù
+reunir
 reuntar
 reusense
 reutilizar
@@ -59913,7 +59874,7 @@ revelación
 revelador
 revelamiento
 revelandero
-revelarñòT
+revelar
 reveler
 revenar
 revencer
@@ -59925,7 +59886,7 @@ reventa
 reventadero
 reventado
 reventador
-reventarÆñò
+reventar
 revení
 rever
 reverberación
@@ -59949,7 +59910,7 @@ revertir
 revesar
 revesino
 revestimiento
-revestirñ
+revestir
 revezar
 revezo
 revidar
@@ -59980,7 +59941,7 @@ revocar
 revocatorio
 revolar
 revolcadero
-revolcarÄñòõ
+revolcar
 revolcón
 revolear
 revolotear
@@ -60031,10 +59992,10 @@ rezumar
 rezura
 rezurcir
 rezón
-reírÉÊñóöú
+reír
 reñidero
 reñido
-reñirÊ
+reñir
 reóstato
 ria
 riacho
@@ -60089,8 +60050,8 @@ rielera
 rielero
 rienda
 riera
-riesgo
-riesgoso
+rieo
+rieoso
 riestra
 rifa
 rifador
@@ -60296,7 +60257,7 @@ rodancho
 rodante
 rodapelo
 rodaplancha
-rodarÄÆ
+rodar
 rodea
 rodeabrazo
 rodeador
@@ -60326,11 +60287,11 @@ roedor
 roedor
 roedura
 roela
-roerÅÅ
+roer
 roete
 rogado
 rogador
-rogarÃÅÆÒß
+rogar
 rogativa
 rogativa
 rogativo
@@ -60566,7 +60527,7 @@ rozador
 rozadura
 rozagante
 rozamiento
-rozarñòT
+rozar
 roznar
 roznido
 roído
@@ -60802,7 +60763,6 @@ sabeliano
 sabelotodo
 sabeo
 saber
-saberÃÉÊá
 sabiamente
 sabida
 sabidillo
@@ -61088,7 +61048,7 @@ salino
 salio
 salio
 salipirina
-salirñóöú
+salir
 salisipan
 salisípanes
 salitrado
@@ -61183,7 +61143,7 @@ saltaojos
 saltapajas
 saltaparedes
 saltaprados
-saltaròôøT
+saltar
 saltarel
 saltarelo
 saltarilla
@@ -61207,7 +61167,7 @@ salud
 saludablemente
 saludador
 saludador
-saludarÌÍÎÙÚT
+saludar
 saludo
 salumbre
 salutación
@@ -61236,7 +61196,7 @@ salvamanteles
 salvamento
 salvamiento
 salvante
-salvarÍñòôø
+salvar
 salvaterrano
 salvatiqueza
 salvavidas
@@ -61817,7 +61777,7 @@ sedimentario
 sedimento
 sedoso
 seducción
-seducirÊ
+seduciré
 seductivo
 seductor
 sedán
@@ -61832,7 +61792,7 @@ segadero
 segador
 segador
 segallo
-segarÆT
+segarT
 seglar
 seglarmente
 segmentación
@@ -61860,7 +61820,7 @@ seguido
 seguidor
 seguidor
 seguimiento
-seguirÊÔÕáñóöú
+seguir
 segunda
 segundar
 segundero
@@ -61933,7 +61893,7 @@ sembrado
 sembrador
 sembradura
 sembradío
-sembrarÆ
+sembrar
 semeja
 semejante
 semejante
@@ -62073,7 +62033,7 @@ sentadero
 sentadillas
 sentado
 sentamiento
-sentarÄÅÆÐñòõù
+sentar
 sentencia
 sentenciador
 sentenciar
@@ -62091,7 +62051,7 @@ sentimentalmente
 sentimiento
 sentina
 sentir
-sentirÊÔáñóöú
+sentir
 sentón
 seo
 seor
@@ -62100,7 +62060,7 @@ separación
 separadamente
 separado
 separador
-separarô
+separar
 separata
 separatismo
 separatista
@@ -62157,7 +62117,7 @@ serbocroata
 seremos
 serena
 serenamente
-serenarø
+serenar
 serenata
 serendipia
 serenero
@@ -62259,7 +62219,7 @@ servilletero
 servilmente
 servio
 serviola
-servirÉÔáâñóö
+servir
 servo
 servofreno
 servomecanismo
@@ -62285,12 +62245,12 @@ sesenta
 sesentavo
 seseo
 sesera
-sesgadamente
-sesgado
-sesgadura
-sesgar
-sesgo
-sesgo
+seadamente
+seado
+seadura
+sear
+seo
+seo
 sesionar
 sesión
 sesma
@@ -62790,7 +62750,7 @@ sitionuevero
 sito
 situación
 situado
-situarÅÆñòõù
+situar
 siéndola
 siéndolas
 siéndole
@@ -63043,7 +63003,7 @@ sofoco
 sofoquina
 sofrenada
 sofrenar
-sofreírÔá
+sofreírá
 sofrito
 sofrito
 software
@@ -63093,7 +63053,7 @@ soldado
 soldador
 soldadote
 soldadura
-soldarõ
+soldar
 soleamiento
 solear
 solecismo
@@ -63189,7 +63149,7 @@ solsonense
 solsticio
 soltadizo
 soltador
-soltarÃÄÅÆÐÑÝÞñòõù
+soltar
 soltero
 soltería
 soltura
@@ -63274,7 +63234,7 @@ sonajero
 sonambulismo
 sonante
 sonante
-sonarñõT
+sonar
 sonata
 sonatina
 sonda
@@ -63299,7 +63259,7 @@ sonoramente
 sonoridad
 sonorizar
 sonoro
-sonreírñó
+sonreíró
 sonriente
 sonrisa
 sonriso
@@ -63394,7 +63354,7 @@ soro
 soroche
 sorprendente
 sorprendentemente
-sorprenderø
+sorprender
 sorpresa
 sorpresivamente
 sorpresivo
@@ -63422,7 +63382,7 @@ sosañar
 sosegadamente
 sosegado
 sosegador
-sosegarÒñõù
+sosegar
 sosera
 sosero
 sosia
@@ -63440,7 +63400,7 @@ sospechoso
 sospechoso
 sospesar
 sostenedor
-sostenerÃÉÊÔáñóT
+sostener
 sostenibilidad
 sostenido
 sostenido
@@ -63758,7 +63718,7 @@ sufí
 sugerencia
 sugerente
 sugeridor
-sugerirÃÉÊ
+sugeriré
 sugestionador
 sugestionar
 sugestivo
@@ -63822,7 +63782,7 @@ suministración
 suministrador
 suministrar
 suministro
-sumirÎñò
+sumir
 sumisa
 sumisamente
 sumisión
@@ -63847,7 +63807,7 @@ superabundar
 superación
 superador
 superante
-superarô
+superar
 superchería
 supererogación
 supererogatorio
@@ -63913,7 +63873,7 @@ supletorio
 suplicacionero
 suplicación
 suplicante
-suplicarÎ
+suplicar
 suplicatorio
 suplicio
 suplidor
@@ -64038,7 +63998,7 @@ sustentáculo
 sustitución
 sustituible
 sustituidor
-sustituirÉÊÔá
+sustituir
 sustitutivo
 sustituto
 sustituyente
@@ -64046,7 +64006,7 @@ susto
 sustracción
 sustractivo
 sustraendo
-sustraerÊñ
+sustraer
 sustrato
 susurrador
 susurrante
@@ -64898,7 +64858,7 @@ templada
 templadamente
 templadera
 templadero
-templadoSG
+templado
 templador
 templador
 templadura
@@ -64966,7 +64926,7 @@ tendel
 tendencia
 tendencioso
 tendente
-tenderÃÄÅÆÇñòõù
+tender
 tenderete
 tendero
 tendida
@@ -64985,7 +64945,7 @@ tenedor
 tenedorcillo
 tenencia
 tenense
-tenerÉÊÔÕáñóöú
+tener
 tenia
 tenida
 tenienta
@@ -65017,7 +64977,7 @@ tentador
 tentador
 tentadura
 tentalear
-tentarÅÆÑñò
+tentar
 tentaruja
 tentativa
 tentativamente
@@ -65337,7 +65297,7 @@ teyo
 tez
 tezcucano
 teñido
-teñirÃÊñ
+teñir
 teólogo
 teóricamente
 teórico
@@ -65874,7 +65834,7 @@ torcedero
 torcedero
 torcedor
 torcedura
-torcerñò
+torcer
 torcho
 torchuelo
 torcida
@@ -66043,7 +66003,7 @@ tostado
 tostador
 tostador
 tostadura
-tostarÄ
+tostar
 tostón
 total
 total
@@ -66139,8 +66099,7 @@ traductor
 traedizo
 traedura
 traer
-traerÃÉÊÔÕÖØáâä
-traerÃÉÊÔÕÖØáâäñóöú
+traer
 trafagar
 trafalmeja
 traficante
@@ -66265,7 +66224,7 @@ transeúnte
 transferencia
 transferible
 transferidor
-transferirÊ
+transferir
 transfiguración
 transfigurar
 transfijo
@@ -66284,9 +66243,9 @@ transfundir
 transfusible
 transfusión
 transfusor
-transgredir
-transgresión
-transgresor
+tranredir
+tranresión
+tranresor
 transiberiano
 transiberiano
 transición
@@ -66460,12 +66419,12 @@ trasfretar
 trasfuego
 trasfundir
 trasfusor
-trasga
-trasgo
-trasgredir
-trasgresor
-trasguear
-trasguero
+traa
+trao
+traredir
+traresor
+trauear
+trauero
 trashoguero
 trashoguero
 trashojar
@@ -67006,7 +66965,7 @@ tropero
 tropezadero
 tropezador
 tropezadura
-tropezarñò
+tropezar
 tropezoso
 tropezón
 tropezón
@@ -67736,7 +67695,7 @@ utilitario
 utilitario
 utilitarismo
 utilización
-utilizarÌÙñòøT
+utilizar
 utillaje
 utiqueño
 utopista
@@ -67782,7 +67741,7 @@ vaciado
 vaciador
 vaciamiento
 vaciante
-vaciarÅÆÒñòõ
+vaciar
 vaciedad
 vaciero
 vacilación
@@ -67869,7 +67828,6 @@ valentísimamente
 valentísimo
 valentón
 valer
-valerÊñóöú
 valeriana
 valerianato
 valeriense
@@ -68252,7 +68210,7 @@ venialmente
 venida
 venidero
 venidero
-venirñóöú
+venir
 venoso
 venta
 ventaja
@@ -68487,7 +68445,7 @@ vertedero
 vertedor
 vertedor
 vertello
-verterÄù
+verterù
 vertibilidad
 vertible
 vertical
@@ -68525,7 +68483,7 @@ vestigio
 vestiglo
 vestimenta
 vestimento
-vestirÉÊÕñóöú
+vestir
 vestuario
 vestugo
 vestíbulo
@@ -68537,7 +68495,7 @@ veteado
 vetear
 veterano
 veterinario
-vetisesgado
+vetiseado
 veto
 vetustez
 vetusto
@@ -68854,7 +68812,7 @@ visita
 visitación
 visitador
 visitante
-visitarÚñòø
+visitar
 visiteo
 visión
 vislumbrar
@@ -69039,7 +68997,7 @@ voltariedad
 voltario
 volteador
 volteador
-voltearñô
+voltear
 voltejar
 voltejear
 volteo
@@ -70906,7 +70864,7 @@ psoe
 lejos
 juez
 características
-riesgo
+rieo
 fácil
 diferencia
 cultural
@@ -72512,7 +72470,7 @@ mando
 costumbre
 colectivo
 piedras
-rasgos
+raos
 industriales
 mía
 protesta
@@ -72905,7 +72863,7 @@ opiniones
 reloj
 in
 habido
-riesgos
+rieos
 meta
 gonzalo
 laboratorio
@@ -73678,7 +73636,7 @@ trae
 cajas
 cariño
 competencias
-desgracia
+deracia
 ejemplares
 aprobado
 específico
@@ -76870,7 +76828,7 @@ macho
 democráticos
 lana
 llevamos
-rasgo
+rao
 comportamientos
 anterioridad
 hallar
@@ -77365,7 +77323,7 @@ pudiendo
 sandinista
 alejado
 asesinatos
-desgraciadamente
+deraciadamente
 escaños
 velasco
 creativo
@@ -77974,7 +77932,7 @@ progresista
 sustituido
 apuntan
 cráneo
-disgusto
+diusto
 japonesa
 probado
 prosa
@@ -79186,20 +79144,17 @@ anécdotas
 electo
 enciende
 precoz
-rafa
 sugirió
 usaba
 asientos
 carencias
 cirujano
-cruyff
 desempeñar
 emocionales
 episcopal
 proporcional
 cerco
 desesperada
-eloy
 gigantesco
 suizo
 velada
@@ -79860,7 +79815,7 @@ fallos
 falsedad
 movilizaciones
 pagando
-posguerra
+pouerra
 seguí
 sirvieron
 telefonía
@@ -80063,8 +80018,6 @@ transacciones
 adulta
 continuado
 hernando
-joseph
-oms
 dividida
 finalizó
 frialdad
@@ -80126,8 +80079,5 @@ sordo
 amaba
 cumplan
 entiendes
-for
 fuiste
-galileo
-juanito
 normalización
