@@ -1,11 +1,9 @@
 name: Build and deploy .NET Core application to Web App scrabbleHelp
 
-# Trigger the workflow on push or pull request, but only for the main branch
+# Trigger the workflow on push, but only for the main branch
 
 on:
   push:
-    branches: [ master ]
-  pull_request:
     branches: [ master ]
   
 env:
