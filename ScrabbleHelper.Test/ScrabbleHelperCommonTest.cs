@@ -1,24 +1,23 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ScrabbleHelper.SPA;
-using System;
 
 namespace ScrabbleHelper.Test
 {
     [TestClass]
     public class ScrabbleHelperCommonTest
     {
-        ScrabbleHelperCommon scrabbleHelperCommon = new ScrabbleHelperCommon();
+        ScrabbleHelperCommon ScrabbleHelperCommon = new ScrabbleHelperCommon();
 
         [TestMethod]
         public void Initialise()
         {
-            Assert.IsTrue(scrabbleHelperCommon.IsWordsLoaded);
+            Assert.IsTrue(ScrabbleHelperCommon.IsWordsLoaded);
         }
 
         [TestMethod]
         public void RequestWord()
         {
-            var foundWords = scrabbleHelperCommon.SearchWords("ajs");
+            var foundWords = ScrabbleHelperCommon.SearchWords("ajs");
 
             Assert.IsTrue(foundWords.Count > 0);
         }
@@ -26,7 +25,7 @@ namespace ScrabbleHelper.Test
         [TestMethod]
         public void CheckPoints()
         {
-            var foundWords = scrabbleHelperCommon.GetPointsForWord("Hello");
+            var foundWords = ScrabbleHelperCommon.GetPointsForWord("Hello");
 
             Assert.IsTrue(foundWords == 8);
         }
@@ -34,7 +33,7 @@ namespace ScrabbleHelper.Test
         [TestMethod]
         public void CheckPoints2()
         {
-            var foundWords = scrabbleHelperCommon.GetPointsForWord("Xenomorph");
+            var foundWords = ScrabbleHelperCommon.GetPointsForWord("Xenomorph");
 
             Assert.IsTrue(foundWords == 23);
         }
@@ -42,7 +41,7 @@ namespace ScrabbleHelper.Test
         [TestMethod]
         public void CheckPoints3()
         {
-            var foundWords = scrabbleHelperCommon.GetPointsForWord("Syndrome");
+            var foundWords = ScrabbleHelperCommon.GetPointsForWord("Syndrome");
 
             Assert.IsTrue(foundWords == 14);
         }
@@ -50,7 +49,9 @@ namespace ScrabbleHelper.Test
         [TestMethod]
         public void CheckPointsNotValidWord()
         {
-            Assert.ThrowsException<Exception>(()=>scrabbleHelperCommon.GetPointsForWord("S!ñyn!ñdr!ñome"));
+            var foundWords = ScrabbleHelperCommon.GetPointsForWord("S!ñyn!ñdr!ñome");
+
+            Assert.IsTrue(foundWords == 17);
         }
     }
 }
