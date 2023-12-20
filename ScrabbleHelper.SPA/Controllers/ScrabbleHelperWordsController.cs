@@ -3,7 +3,7 @@
 namespace ScrabbleHelper.SPA.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class ScrabbleHelperWordsController : ControllerBase
     {
         private readonly ScrabbleHelperCommon scrabbleHelperCommon;
